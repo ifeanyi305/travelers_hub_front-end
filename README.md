@@ -61,6 +61,9 @@ A react app that allows users to see traveling packages and book based on their 
 
 ### Tech Stack <a name="tech-stack"></a>
 
+### Live demo <a name="live-demo"></a>
+[Travellers Hub](https://travelers-hub-front.onrender.com/)
+
 <details>
   <summary>Client</summary>
   <ul>
